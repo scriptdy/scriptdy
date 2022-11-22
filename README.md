@@ -37,5 +37,6 @@
   
   ![](https://komarev.com/ghpvc/?username=scriptdy&label=thanks+for+visiting&style=for-the-badge&color=000000)
     
+  [![@scripty's Holopin board](https://holopin.me/scripty)](https://holopin.io/@scripty)
     
  </div>
