@@ -4,7 +4,20 @@
 
 ⚠ Only case studies and side projects. Nothing more than that.
 
-
+<details> <summary>  I'm currently learning:  </summary> 
+  
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+  
+ <details>  <summary>  frameworks  </summary> 
+   
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=f23879 " target="_blank"></a> 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://camo.githubusercontent.com/0f6325940d36137c3e77d69b0dfe0ffb33e9a1084faf9cc843a9c929a874c709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
+  
+  </details>
+</details>
 
 
 <div align="center">
@@ -20,12 +33,7 @@
 --->
 
  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=f23879 " target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://camo.githubusercontent.com/0f6325940d36137c3e77d69b0dfe0ffb33e9a1084faf9cc843a9c929a874c709/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+
 
     
    
