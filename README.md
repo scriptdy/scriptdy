@@ -1,7 +1,12 @@
-<p align="center"> Hello, welcome to my profile </p>
+<p> Hi, I'm V! </p>
 
-<p align="center">  Currently learning </p> 
-<div  align="center">
+[![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)
+
+
+
+<h3 width="50" align="center"> Currently learning </h3>
+
+<div align="center" width="490" height="165" <div style="display: inline_block"> <br>
 <!-- python -->
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
  <!-- -->
@@ -21,24 +26,28 @@
 </div>
   <!-- add link to repo <a align="left" href="" target="_blank"><img src="https://img.shields.io/badge/Repository about my academic life as a computer engineering student -000000?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>  -->
   
+  
+<h3 width="50" align="center"> . </h3>
+
 
 <div align="center">
-  <a href="https://github.com/scriptdy">
-  
-  <!-- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptdy&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](
+    <a href="https://github.com/scriptdy">
+       <img width="300" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=swift">
+       <img width="300" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=swift">
+       <img width="300" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=swift">
+     <img width="904px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=swift">    
+</div>
 
-  [![](https://github-readme-activity-graph.cyclic.app/graph?username=scriptdy)]
-  -->
-    
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=scriptdy&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=FAB795&border=0D111700&ring=E95678&fire=E96D38&currStreakNum=CFCFCF&sideNums=979797&currStreakLabel=DCA629&sideLabels=FF87AB&dates=A3A3A3)](https://git.io/streak-stats)
-                             
- 
+
+
 
 <!--- links
  <a href="" target="_blank"><img src="" target="_blank"></a> 
---->
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptdy&theme=swift&border_radius=12.3&date_format=j%20M%5B%20Y%5D&card_width=200&border=083E5500&fire=66BFFF&dates=248518&stroke=EBEBEB00&background=FFFFFF&currStreakNum=000000&sideNums=DE4762&currStreakLabel=717171&sideLabels=8F8F8F&excludeDaysLabel=EB5454&ring=DEAF3500)](https://git.io/streak-stats)">
 
+
+         <!---  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scriptdy&theme=swift" width="300" height="180em"--->
+ 
  
 
 
