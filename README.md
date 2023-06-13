@@ -1,10 +1,7 @@
-<h1 align="center"> Hello, welcome to my profile <h1>
-  
-<h3>  I am passionate about technology and always looking to learn and improve myself in new tools and programming languages. On my GitHub profile, you can find projects that I develop and participate in, as well as some of my studies and experiments.
-</h3>
+<p align="center"> Hello, welcome to my profile </p>
 
-
-<h2 align="center">  Currently learning </h2> 
+<p align="center">  Currently learning </p> 
+<div  align="center">
 <!-- python -->
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
  <!-- -->
@@ -21,7 +18,7 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
     <!-- Hyper Terminal--> 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" target="_blank"></a>
-
+</div>
   <!-- add link to repo <a align="left" href="" target="_blank"><img src="https://img.shields.io/badge/Repository about my academic life as a computer engineering student -000000?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>  -->
   
 
