@@ -23,6 +23,8 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
     <!-- Hyper Terminal--> 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" target="_blank"></a>
+  <!-- -->
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Latex-000000?style=for-the-badge&logo=Latex&logoColor=white" target="_blank"></a>
 </div>
   <!-- add link to repo <a align="left" href="" target="_blank"><img src="https://img.shields.io/badge/Repository about my academic life as a computer engineering student -000000?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>  -->
   
@@ -34,37 +36,19 @@
     <a href="https://github.com/scriptdy">
        <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=swift">
        <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=swift">
-       <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=swift">
+       <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=swift">
      <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=swift">    
+       <img aling="center" width="620px" src=https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg>
+      <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)>
 </div>
 
 
 
-
-<!--- links
+ <!--- 
+ [![@scripty's Holopin board](https://holopin.me/scripty)](https://holopin.io/@scripty)
  <a href="" target="_blank"><img src="" target="_blank"></a> 
        <img src="https://github-readme-streak-stats.herokuapp.com?user=scriptdy&theme=swift&border_radius=12.3&date_format=j%20M%5B%20Y%5D&card_width=200&border=083E5500&fire=66BFFF&dates=248518&stroke=EBEBEB00&background=FFFFFF&currStreakNum=000000&sideNums=DE4762&currStreakLabel=717171&sideLabels=8F8F8F&excludeDaysLabel=EB5454&ring=DEAF3500)](https://git.io/streak-stats)">
 
+  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg)
 
          <!---  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=scriptdy&theme=swift" width="300" height="180em"--->
- 
- 
-
-
-    
-   
-
- 
-    
-  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg)
-  
-    
-  [![@scripty's Holopin board](https://holopin.me/scripty)](https://holopin.io/@scripty)
-    
-  
-<h4> Thanks in advance for your visit and any feedback will be very welcome! 
- Feel free to contact me if you have any questions or suggestions.  </h4> 
-    
-![](https://komarev.com/ghpvc/?username=scriptdy&label=thanks+for+visiting&style=for-the-badge&color=000000)
-    
- </div>
