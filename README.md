@@ -6,22 +6,24 @@
 
 <h3 width="50" align="center"> Currently learning </h3>
 
-<div align="center" width="490" height="165" <div style="display: inline_block"> <br>
+<div align="center[[" width="490" height="165" <div style="display: inline_block"> <br>
 <!-- python -->
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" target="_blank"></a>
  <!-- Javascript -->
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=yellow" target="_blank"></a>
    <!-- NodeJS-->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/nodeJS-white?style=for-the-badge&logo=Nodejs&logoColor=black" target="_blank"></a>
-    <!-- ExpressJS-->
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=node.js&logoColor=black">
+    <!-- ExpressJS
   <a href=""target="_blank"><img src="  https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black " target="_blank"></a>
   <!-- ReactJS-->
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=F23591" target="_blank"></a>
     <!-- BD MongoDB--> 
     <a href="" target="_blank"><img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongoDB&logoColor=black" target="_blank"></a> 
     <!--Design Figma-->
     <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-white?style=for-the-badge&logo=figma&logoColor=black" target="_blank"></a>
-    <!-- Hyper Terminal--> 
+     <!--Design Blender-->
+     <a href="" target="_blank"><img src="https://img.shields.io/badge/blender-white.svg?style=for-the-badge&logo=blender&logoColor=black target="_blank"></a>
+    <!-- Hyper Terminal
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Hyper-white?style=for-the-badge&logo=hyper&logoColor=black" target="_blank"></a>
   <!-- Latex -->
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Latex-white?style=for-the-badge&logo=Latex&logoColor=black" target="_blank"></a>
