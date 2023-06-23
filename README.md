@@ -6,7 +6,7 @@
 
 <h3 width="50" align="center"> Currently learning </h3>
 
-<div align="center[[" width="490" height="165" <div style="display: inline_block"> <br>
+<div align="center" width="490" height="165" <div style="display: inline_block"> <br>
 <!-- python -->
  <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black" target="_blank"></a>
  <!-- Javascript -->
@@ -25,8 +25,8 @@
      <a href="" target="_blank"><img src="https://img.shields.io/badge/blender-white.svg?style=for-the-badge&logo=blender&logoColor=black target="_blank"></a>
     <!-- Hyper Terminal
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Hyper-white?style=for-the-badge&logo=hyper&logoColor=black" target="_blank"></a>
-  <!-- Latex -->
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Latex-white?style=for-the-badge&logo=Latex&logoColor=black" target="_blank"></a>
+  <!-- Latex 
+   <a href="" target="_blank"><img src="https://img.shields.io/badge/Latex-white?style=for-the-badge&logo=Latex&logoColor=black" target="_blank"></a>-->
 </div>
   <!-- add link to repo <a align="left" href="" target="_blank"><img src="https://img.shields.io/badge/Repository about my academic life as a computer engineering student -000000?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>  -->
   
