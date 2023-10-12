@@ -23,12 +23,16 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
      <!--Design Blender-->
      <a href="" target="_blank"><img src="https://img.shields.io/badge/blender-black.svg?style=for-the-badge&logo=blender&logoColor=white target="_blank"></a>
+        <!-- charm-->
+      <a href="" target="_blank"><img src="https://media.discordapp.net/attachments/828754180487249950/1162091342764191867/image-removebg-preview.png?ex=653aace6&is=652837e6&hm=01dacd282f34b769fc309cebb1b5b1726ad46492ffab7c10b231fe9e2d23b5fb&=&width=355&height=355" target="_blank" align="top" width="28" height="28"></a>
     <!-- Hyper Terminal
-   <a href="" target="_blank"><img src="https://img.shields.io/badge/Hyper-white?style=for-the-badge&logo=hyper&logoColor=black" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Hyper-white?style=for-the-badge&logo=hyper&logoColor=black" target="_blank"></a>
+    <!-- charm
+    <a href="" target="_blank"><img src="https://media.discordapp.net/attachments/828754180487249950/1162091342764191867/image-removebg-preview.png?ex=653aace6&is=652837e6&hm=01dacd282f34b769fc309cebb1b5b1726ad46492ffab7c10b231fe9e2d23b5fb&=&width=355&height=355" target="_blank" align="top" width="28" height="28"></a> -->
   <!-- Latex 
    <a href="" target="_blank"><img src="https://img.shields.io/badge/Latex-white?style=for-the-badge&logo=Latex&logoColor=black" target="_blank"></a>
    <!- charm->
-      <a href="" target="_blank"><img src="https://o.remove.bg/downloads/e583237f-de4c-4f75-b2b7-935a4a719fcf/image-removebg-preview.png" target="_blank" align="top"  width="80" height="25"></a>
+   <a href="" target="_blank"><img src="https://cdn.discordapp.com/attachments/828754180487249950/1162067482471837826/image-removebg-preview.png?ex=653a96ad&is=652821ad&hm=aaad0b43141742495192837fc777d2d8d604441f7c35999dd1dfd37ec879b09d&" target="_blank" align="top"  width="80" height="25"></a>
      -->
 </div>
   <!-- add link to repo <a align="left" href="" target="_blank"><img src="https://img.shields.io/badge/Repository about my academic life as a computer engineering student -000000?style=for-the-badge&logo=book&logoColor=white" target="_blank"></a>  -->
@@ -59,7 +63,6 @@
 <!-- profile-details -->
    <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
      <!---->
-    
  </div>
 
 
