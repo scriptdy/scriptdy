@@ -54,6 +54,7 @@
 <!-- profile-details -->
    <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
      <!---->
+
  </div>
 
 
@@ -61,4 +62,6 @@
    <!-- <img aling="center" width="620px" src=https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg>
       <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)> --> 
 
-  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg)
+ <!--  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg) --> 
+
+    <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)
