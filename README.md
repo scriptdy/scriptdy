@@ -1,4 +1,4 @@
-<img width="50%" align="right" src="" />
+<img width="30%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" />
 
 <div align="left" width=25>
 
@@ -19,9 +19,26 @@
 <strong> Tools : </strong> Figma, Git, GitHub, Hyper, Notion, VSCode </p>
 
 
+
+<!-- more -->
+<details>  
+ <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> More </summary>
+ <!--  -->
+
+ <!--  -->
+
+<!--  -->
+<details>  
+ <summary> Recomendations </summary>
+ <!--  -->
+ <!--  -->
+ <!--  -->
+</details>
+ 
+</details>
+
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)
-
-
 
 <h4 width="50" align="center"> Stats </h4>
 
