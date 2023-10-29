@@ -12,7 +12,7 @@
 
 <!-- studiyng-->
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
-<strong> Studying: :</strong> Graduating in Computer Engineering, currently learning Web Development, Python, C++ and Java. </p>
+<strong> Studying: </strong> Graduating in Computer Engineering, currently learning Web Development, Python, C++ and Java. </p>
 
 <!-- tools-->
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
@@ -20,19 +20,36 @@
 
 
 
-<!-- more -->
+<!-- more ------------------------------------------------------------------------------  -->
 <details>  
- <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> More </summary>
+ <summary>  More </summary>
  <!--  -->
 
  <!--  -->
+
+
 
 <!--  -->
 <details>  
- <summary> Recomendations </summary>
+ <summary>  Recomendations </summary>
+<!--  -->
+ 
+<p> Articles </p>
+
+ 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> [**Become a paid software developer in 12 months**](https://www.saiyangrowthletter.com/p/become-a-paid-software-developer) by [Tiger Abrodi](https://substack.com/@tigerabrodi)<br/> 
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> [**How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥**](https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7) by [Dragos Nedelcu](https://dev.to/dragosnedelcu)<br/>
+ 
+<!-- blogs -->
+  
+ <p>  blogs and sites of people who inspire me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> </p>
+
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Anna**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Myra**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
+ 
+ 
  <!--  -->
- <!--  -->
- <!--  -->
+
 </details>
  
 </details>
