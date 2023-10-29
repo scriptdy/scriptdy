@@ -6,7 +6,7 @@
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" />
 <strong> Soft Skills:</strong> I am self-taught, proactive, creative, communicative </p>
 
- <!-- hord skills-->
+ <!-- hard skills-->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
 <strong> Hard Skills: </strong> HTML5, CSS3, ReactJS, Typescript, NodeJS, Python, API Rest. </p>
 
@@ -21,18 +21,28 @@
 
 
 <!-- more ------------------------------------------------------------------------------  -->
+
 <details>  
  <summary>  More </summary>
- <!--  -->
 
  <!--  -->
+<details>  
+ <summary>  About my University </summary>
+ 
 
 
+</details>
+ <!--  -->
+ <details>  
+ <summary>  Projects </summary>
+<!-- ID card -->
+<!-- CV generator -->
+<!-- HTML/CSS templates -->
+</details> 
 
 <!--  -->
 <details>  
  <summary>  Recomendations </summary>
-<!--  -->
  
 <p> Articles </p>
 
@@ -51,7 +61,6 @@
  <!--  -->
 
 </details>
- 
 </details>
 
 
