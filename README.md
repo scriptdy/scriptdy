@@ -4,7 +4,7 @@
 
 <!-- soft skills-->
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" />
-<strong> Soft Skills:</strong> I am self-taught, proactive, creative, communicative </p>
+<strong> Soft Skills:</strong> I am self-taught, proactive and creative </p>
 
  <!-- hard skills-->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
@@ -25,20 +25,30 @@
 <details>  
  <summary>  More </summary>
 
- <!--  -->
+
 <details>  
- <summary>  About my University </summary>
- 
+ <summary>  About me </summary>
+<!---->
+<!--University-->
+
+<!--Communities-->
+<details> 
+<summary> Member of Tech Communities </summary>
+<p> 👩‍💻 Embassador from Women Techmakers,</p>
+<p> 💻 GDG - Google Developer Groups, </p>
+<p> 💻 Women Techmakers, PyLadies, Tech Ladies and Duchess France </p>
+</details>
 
 
 </details>
- <!--  -->
- <details>  
- <summary>  Projects </summary>
+
+<details>  
+<summary>  Projects </summary>
 <!-- ID card -->
 <!-- CV generator -->
 <!-- HTML/CSS templates -->
 </details> 
+
 
 <!--  -->
 <details>  
@@ -53,7 +63,7 @@
  
 <!-- blogs -->
   
-<----> <p>  blogs and sites of people who inspire me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> </p>
+<p>  Blogs and sites of people who inspire me: <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> --> </p>
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Ana**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Miraya**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
  
