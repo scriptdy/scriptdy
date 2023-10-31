@@ -53,9 +53,9 @@
  
 <!-- blogs -->
   
- <p>  blogs and sites of people who inspire me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> </p>
+<----> <p>  blogs and sites of people who inspire me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> </p>
 
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Anna**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Myra**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Ana**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Miraya**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
  
  
  <!--  -->
