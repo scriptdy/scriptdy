@@ -44,9 +44,12 @@
 
 <details>  
 <summary>  Projects </summary>
+<!-- Vagas de Trabalho -->
+<!-- Vagas afirmativas para mulheres cis e trans (WomanTechmakers) -->
 <!-- ID card -->
 <!-- CV generator -->
 <!-- HTML/CSS templates -->
+<!-- Sites OpenUI -->
 </details> 
 
 
