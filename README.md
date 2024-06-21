@@ -19,8 +19,10 @@
 <strong> Tools : </strong> Figma, Git, GitHub, Hyper, Notion, VSCode </p>
 
 
+<!-- follow --------------------------------->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)
 
-<!-- more ------------------------------------------------------------------------------  -->
+<!-- more -------------------------------------------------------------------------------->
 
 <details>  
  <summary>  More </summary>
@@ -75,9 +77,6 @@
 
 </details>
 </details>
-
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)
 
 <h4 width="50" align="center"> Stats </h4>
 
