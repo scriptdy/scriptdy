@@ -30,9 +30,13 @@
 
 <details>  
  <summary>  About me </summary>
+
 • I'm 25 years old 
+
 • based in Sao Paulo  
+
 • Always present at technology events and 
+
 being a member and ambassador of communities 
 
 <!---->
