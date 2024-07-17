@@ -110,5 +110,7 @@ being a member and ambassador of communities
       <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)>
     <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty) --> 
 
-  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg) 
+
+ ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg) 
+
 
