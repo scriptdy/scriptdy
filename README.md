@@ -1,5 +1,6 @@
 <img width="30%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" />
 
+
 <div align="left" width=25>
 
 <!-- soft skills-->
@@ -29,15 +30,20 @@
 
 
 <details>  
- <summary>  About me </summary>
+ <summary> About me </summary> 
 
-• I'm 25 years old 
+ <p></p>
 
-• based in Sao Paulo  
+ <img width="10%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp"/>
 
-• Always present at technology events and 
+<p> - I'm 25 years old 
 
-being a member and ambassador of communities 
+<p> - based in Sao Paulo  
+
+<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
+
+being a member and ambassador of communities
+<hr>
 
 <!---->
 <!--University-->
@@ -48,6 +54,7 @@ being a member and ambassador of communities
 <p> 👩‍💻 Embassador from Women Techmakers,</p>
 <p> 💻 GDG - Google Developer Groups, </p>
 <p> 💻 Women Techmakers, PyLadies, Tech Ladies and Duchess France </p>
+<hr>
 </details>
 
 
@@ -61,6 +68,7 @@ being a member and ambassador of communities
 <!-- CV generator -->
 <!-- HTML/CSS templates -->
 <!-- Sites OpenUI -->
+<hr>
 </details> 
 
 
@@ -81,7 +89,7 @@ being a member and ambassador of communities
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Ana**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Miraya**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
  
- 
+ <hr>
  <!--  -->
 
 </details>
