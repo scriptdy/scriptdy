@@ -40,22 +40,23 @@
 
 <p> - based in Sao Paulo  
 
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
-
-being a member and ambassador of communities
-<hr>
-
-<!---->
-<!--University-->
 
 <!--Communities-->
 <details> 
-<summary> Member of Tech Communities </summary>
+<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
+
+being a member and ambassador of communities </summary>
 <p> 👩‍💻 Embassador from Women Techmakers,</p>
 <p> 💻 GDG - Google Developer Groups, </p>
 <p> 💻 Women Techmakers, PyLadies, Tech Ladies and Duchess France </p>
 <hr>
 </details>
+<hr>
+
+<!---->
+<!--University-->
+
+
 
 
 </details>
