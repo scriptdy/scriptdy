@@ -4,18 +4,22 @@
 
 <!-- soft skills-->
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" />
+
 <strong> Soft Skills:</strong> I am self-taught, proactive and creative </p>
 
  <!-- hard skills-->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
+
 <strong> Hard Skills: </strong> HTML5, CSS3, ReactJS, Typescript, NodeJS, Python, API Rest. </p>
 
 <!-- studiyng-->
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
+
 <strong> Studying: </strong> Graduating in Computer Engineering, currently learning Web Development, Python, C++ and Java. </p>
 
 <!-- tools-->
 <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
+
 <strong> Tools : </strong> Figma, Git, GitHub, Hyper, Notion, VSCode </p>
 
 
@@ -110,5 +114,5 @@ being a member and ambassador of communities
       <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)>
     <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty) --> 
 
- <!--  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg) --> 
+  ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg) 
 
