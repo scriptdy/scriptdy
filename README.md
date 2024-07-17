@@ -23,6 +23,29 @@
 <!-- follow --------------------------------->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)
 
+
+<p></p>
+<p></p>
+
+
+<h4 width="50" align="center"> Stats </h4>
+
+ <!-- stats -->
+<div align="center">
+  <a href="https://github.com/scriptdy">
+<!-- repos-per-language -->
+   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
+<!-- productive-time -->
+   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
+<!-- most-commit-language -->
+   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
+<!-- profile-details -->
+   <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
+     <!---->
+
+ </div>
+
+<hr>
 <!-- more -------------------------------------------------------------------------------->
 
 <details>  
@@ -35,10 +58,6 @@
  <p></p>
 
  <img width="10%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp"/>
-
-<p> - I'm 25 years old 
-
-<p> - based in Sao Paulo  
 
 
 <!--Communities-->
@@ -96,25 +115,9 @@ being a member and ambassador of communities </summary>
 </details>
 </details>
 
-<h4 width="50" align="center"> Stats </h4>
+<p></p>
+<p></p>
 
- <!-- stats -->
-<div align="center">
-  <a href="https://github.com/scriptdy">
-<!-- repos-per-language -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
-<!-- productive-time -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
-<!-- most-commit-language -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
-<!-- profile-details -->
-   <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
-     <!---->
-
- </div>
-
-
- 
    <!-- <img aling="center" width="620px" src=https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg>
       <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)>
     <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty) --> 
