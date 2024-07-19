@@ -49,7 +49,7 @@
 <!-- more -------------------------------------------------------------------------------->
 
 <details>  
- <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" />  Click to know more about me, my projects, and recommendations. </summary>
+ <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> #### Click to know more about me, my projects, and recommendations. </summary>
 
 
 <details>  
