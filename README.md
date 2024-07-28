@@ -109,20 +109,9 @@ being a member and ambassador of communities </summary>
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Ana**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Miraya**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
  
- <hr>
- <!--  -->
+ ###
 
-</details>
-</details>
+<img src="https://raw.githubusercontent.com/scriptdy/scriptdy/output/snake.svg" alt="Snake animation" />
 
-<p></p>
-<p></p>
-
-   <!-- <img aling="center" width="620px" src=https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg>
-      <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty)>
-    <img aling="center" width="604px" style="background-white" src=https://holopin.me/scripty or scr=https://holopin.io/@scripty) --> 
-
-
- ![Snake animation](https://github.com/scriptdy/scriptdy/blob/output/github-contribution-grid-snake.svg) 
-
+###
 
