@@ -1,117 +1,96 @@
-<img width="30%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" />
+<br clear="both">
 
+<p align="left">Learning</p>
 
-<div align="left" width=25>
+###
 
-<!-- soft skills-->
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" alt="Ringed Planet" width="25" height="25" />
-<strong> Soft Skills:</strong> I am self-taught, proactive and creative </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="20" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="20" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="20" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="20" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="20" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="20" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="20" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="20" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
+</div>
 
- <!-- hard skills-->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" />
-<strong> Hard Skills: </strong> HTML5, CSS3, ReactJS, Typescript, NodeJS, Python, API Rest. </p>
+###
 
-<!-- studiyng-->
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
-<strong> Studying: </strong> Graduating in Computer Engineering, currently learning Web Development, Python, C++ and Java. </p>
+<br clear="both">
 
-<!-- tools-->
-<p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="25" height="25" />
-<strong> Tools : </strong> Figma, Git, GitHub, Hyper, Notion, VSCode </p>
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="27" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="27" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="27" alt="angularjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="27" alt="react logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="27" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="27" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="27" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="27" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="27" alt="spring logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="27" alt="python logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="27" alt="flask logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="27" alt="blender logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="27" alt="unity logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="27" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="27" alt="illustrator logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="27" alt="arduino logo"  />
+</div>
 
+###
 
-<!-- follow --------------------------------->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)
+<div align="left">
+  <a href="https://open.spotify.com/user/kbyyueeklymruevisefa4pgo2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kbyyueeklymruevisefa4pgo2&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
+###
 
-<p></p>
-<p></p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptdy&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=true&order=2" height="130" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scriptdy&radius=16&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
-
-<h4 width="50" align="center"> Stats </h4>
-
- <!-- stats -->
-<div align="center">
-  <a href="https://github.com/scriptdy">
-<!-- repos-per-language -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
-<!-- productive-time -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
-<!-- most-commit-language -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
-<!-- profile-details -->
-   <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
-     <!---->
-
- </div>
-
-<hr>
-<!-- more -------------------------------------------------------------------------------->
-
-<details>  
- <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more about me, my projects, and recommendations. </h3> </summary>
-
-
-<details>  
- <summary> About me </summary> 
-
- <p></p>
-
- <img width="10%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp"/>
-
-
-<!--Communities-->
-<details> 
-<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
-
-being a member and ambassador of communities </summary>
-<p> 👩‍💻 Embassador from Women Techmakers,</p>
-<p> 💻 GDG - Google Developer Groups, </p>
-<p> 💻 Women Techmakers, PyLadies, Tech Ladies and Duchess France </p>
-<hr>
-</details>
-<hr>
-
-<!---->
-<!--University-->
-
-
-
-
-</details>
-
-<details>  
-<summary>  Projects </summary>
-<!-- Vagas de Trabalho -->
-<!-- Vagas afirmativas para mulheres cis e trans (WomanTechmakers) -->
-<!-- ID card -->
-<!-- CV generator -->
-<!-- HTML/CSS templates -->
-<!-- Sites OpenUI -->
-<hr>
-</details> 
-
-
-<!--  -->
-<details>  
- <summary>  Recomendations </summary>
- 
-<p> Articles </p>
-
- 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> [**Become a paid software developer in 12 months**](https://www.saiyangrowthletter.com/p/become-a-paid-software-developer) by [Tiger Abrodi](https://substack.com/@tigerabrodi)<br/> 
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> [**How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥**](https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7) by [Dragos Nedelcu](https://dev.to/dragosnedelcu)<br/>
- 
-<!-- blogs -->
-  
-<p>  Blogs and sites of people who inspire me: <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="25" height="25" /> --> </p>
-
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Ana**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Miraya**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
- 
- ###
+###
 
 <img src="https://raw.githubusercontent.com/scriptdy/scriptdy/output/snake.svg" alt="Snake animation" />
 
 ###
-
