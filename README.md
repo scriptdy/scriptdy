@@ -1,4 +1,4 @@
-<img width="30%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Two%20Hearts.png" />
+<img width="30%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
 
 
 <div align="left" width=25>
@@ -82,6 +82,7 @@ being a member and ambassador of communities </summary>
 
 <details>  
 <summary>  Projects </summary>
+ <img width="30%" align="right" src="https://cdn.discordapp.com/attachments/828754180487249950/1267547106348892301/studentocat-transparent-b50566efff47419df36db30fd5ff8d98498a472fa43df2fb52e6d5af035fb4d9.png?ex=66a92ebc&is=66a7dd3c&hm=e8b72e891e6c3f9168ed2f0f040b5391cf118b952da1c3794585ea592dcc6bfa&" />
 <!-- Vagas de Trabalho -->
 <!-- Vagas afirmativas para mulheres cis e trans (WomanTechmakers) -->
 <!-- ID card -->
