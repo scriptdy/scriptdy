@@ -1,4 +1,4 @@
-<img width="35%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
+<img width="45%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
 
 
 
