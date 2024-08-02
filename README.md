@@ -76,7 +76,6 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="25" alt="yarn logo"  />
-
   <img width="2" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="2" />
@@ -107,8 +106,10 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="25" alt="go logo"  />
-  <img width="2" />
+ <img width="2" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
+   <img width="2" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
   <img width="2" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img width="2" />
@@ -143,13 +144,10 @@
   <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="25" alt="googlecloud logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
-
 </div>
 
-
-<h4 width="50" align="center"> </h4>
  <!-- stats -->
-<div align="center">
+<div align="leftr">
 <!-- repos-per-language -->
    <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
 <!-- productive-time -->
@@ -158,8 +156,7 @@
    <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
 <!-- profile-details -->
    <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
-     <!---->
-
+<!-- holopin-->
 <img  width="604px" src="https://holopin.me/scripty">
  </div>
 
@@ -168,12 +165,12 @@
 
 <details> 
  <!-- octocat studying-->
- <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more about me, my projects, and recommendations. </h3> </summary>
+ <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more my projects and recommendations. </h3> </summary>
 
 <details> <!--Communities-->
 <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
 
-being a member and ambassador of communities </summary>
+being a member and ambassador of <strong>communities<stong> </summary>
 <p> 👩‍💻 Embassador from Women Techmakers,</p>
 <p> 💻 GDG - Google Developer Groups, </p>
 <p> 💻 Women Techmakers, PyLadies, Tech Ladies and Duchess France </p>
@@ -197,7 +194,6 @@ being a member and ambassador of communities </summary>
  <summary>  Recomendations </summary>
  
  <img width="10%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp"/>
-<p> Articles </p>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> [**Become a paid software developer in 12 months**](https://www.saiyangrowthletter.com/p/become-a-paid-software-developer) by [Tiger Abrodi](https://substack.com/@tigerabrodi)<br/> 
 
