@@ -70,8 +70,18 @@
   <img src="https://skillicons.dev/icons?i=codepen" height="20" alt="codepen logo"  />
 
  <!--languages and tools--> 
-<p></p>
 
+<img src="https://img.shields.io/badge/Git-F05032?logo=
+git&logoColor=-white&style=for-the-badge" height="25" alt="
+git logo" />
+<img width="1" />
+<img src="https://img.shields.io/badge/npm-CB3837?logo=
+npm&logoColor=white&style=for-the-badge" height="25" alt="
+npm logo" />
+<img width="2" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=
+yarn&logoColor=white&style=for-the-badge" height="25" alt="
+yarn logo" />
   
   <img width="2" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
