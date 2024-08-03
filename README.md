@@ -146,18 +146,20 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
 </div>
 
+<img   width="400" height="290em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=kbyyueeklymruevisefa4pgo2&count=4&unique=false" alt="Spotify recently played"  /> 
+
  <!-- stats -->
-<div align="leftr">
+<div align="left">
 <!-- repos-per-language -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
+   <img width="160" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
 <!-- productive-time -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
+   <img width="160" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
 <!-- most-commit-language -->
-   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
-<!-- profile-details -->
-   <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
-<!-- holopin-->
-<img  width="604px" src="https://holopin.me/scripty">
+   <img width="160" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
+ <!-- profile-details -->
+   <img width="504px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
+ <!-- holopin
+<img  width="504px" src="https://holopin.me/scripty">-->
  </div>
 
 <hr>
