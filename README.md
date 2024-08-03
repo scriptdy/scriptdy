@@ -1,13 +1,13 @@
 <img width="45%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
 
 
-<samp>
+<samp> </samp>
+
 <h6 align="left">I am 25 years old and currently pursuing a degree in Computer Engineering at UNIVESP. I am proactive and self-taught, with multidisciplinary knowledge gained through education in Technology, Computer Science, Business Administration and Finance, Design, and Arts.<br><br>I am seeking new opportunities that will allow me to apply my efficiency and gain new experiences, always striving for excellence. I aim to contribute to innovation and inspire new ideas in the workplace.</h6>
 
 <!-- follow --------------------------------->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=cornsilk&right_color=darkslategrey&left_text=%20%20%20%F0%9F%8C%88%20" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)  
 
-</samp>
 
 <div align="left" width="25" spacing="3">
 <h4 align="left"></h4> 
