@@ -1,21 +1,17 @@
 <img width="45%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
 
 
-
+<samp>
 <h6 align="left">I am 25 years old and currently pursuing a degree in Computer Engineering at UNIVESP. I am proactive and self-taught, with multidisciplinary knowledge gained through education in Technology, Computer Science, Business Administration and Finance, Design, and Arts.<br><br>I am seeking new opportunities that will allow me to apply my efficiency and gain new experiences, always striving for excellence. I aim to contribute to innovation and inspire new ideas in the workplace.</h6>
 
-###
 <!-- follow --------------------------------->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=cornsilk&right_color=darkslategrey&left_text=%20%20%20%F0%9F%8C%88%20" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)  
 
+</samp>
 
-<p></p>
-
-###
 <div align="left" width="25" spacing="3">
-<h4 align="left"></h4>
- <!--design--> 
-<p></p>
+<h4 align="left"></h4> 
+<p> <!--design--> </p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="19" alt="matlab logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="19" alt="androidstudio logo"  />
@@ -29,8 +25,7 @@
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="19" alt="adobeillustrator logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="19" alt="adobeaftereffects logo"  />
-<!--ides-->
- <p
+ <p><!--ides--></p>
   <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
@@ -41,8 +36,6 @@
   <img width="2" />
   <img src="https://cdn.simpleicons.org/linux/FCC624" height="20" alt="linux logo"  />
   <img width="2" />
-  <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-1original.svg" height="20" alt="apple logo"  />
-  <img width="2" /--->
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="android logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="20" alt="arduino logo"  />
@@ -69,8 +62,7 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=codepen" height="20" alt="codepen logo"  />
 
- <!--languages and tools--> 
-
+<p> <!--languages and tools--> </p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="1" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
@@ -146,18 +138,18 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="25" alt="amazonwebservices logo"  />
 </div>
 
-<img   width="400" height="290em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=kbyyueeklymruevisefa4pgo2&count=4&unique=false" alt="Spotify recently played"  /> 
+<!-- <img   width="400" height="290em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=kbyyueeklymruevisefa4pgo2&count=4&unique=false" alt="Spotify recently played"  /> -->
 
  <!-- stats -->
 <div align="left">
 <!-- repos-per-language -->
-   <img width="160" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
+   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
 <!-- productive-time -->
-   <img width="160" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
+   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=scriptdy&theme=apprentice">
 <!-- most-commit-language -->
-   <img width="160" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
+   <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
  <!-- profile-details -->
-   <img width="504px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
+   <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
  <!-- holopin
 <img  width="504px" src="https://holopin.me/scripty">-->
  </div>
@@ -167,7 +159,7 @@
 
 <details> 
  <!-- octocat studying-->
- <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more my projects and recommendations. </h3> </summary>
+ <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more about my projects and recommendations. </h3> </summary>
 
 <details> <!--Communities-->
 <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
