@@ -1,9 +1,10 @@
 <img width="45%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
 
 
-<samp> </samp>
-
-<p align="left">I am 25 years old and currently pursuing a degree in Computer Engineering at UNIVESP. I am proactive and self-taught, with multidisciplinary knowledge gained through education in Technology, Computer Science, Business Administration and Finance, Design, and Arts.<br><br>I am seeking new opportunities that will allow me to apply my efficiency and gain new experiences, always striving for excellence. I aim to contribute to innovation and inspire new ideas in the workplace.</p>
+<samp aling="left"> I am 25 years old and currently pursuing a degree in Computer Engineering at UNIVESP. 
+I am proactive, creative and self-taught, with multidisciplinary knowledge gained through education in Technology, Computer Science, Business Administration and Finance, Design, and Arts.
+<br><br>
+I am seeking new opportunities that will allow me to apply my efficiency and gain new experiences, always striving for excellence. I aim to contribute to innovation and inspire new ideas in the workplace. </samp>
 
 <!-- follow --------------------------------->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=cornsilk&right_color=darkslategrey&left_text=%20%20%20%F0%9F%8C%88%20" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)  
@@ -26,17 +27,12 @@
   <img width="2" />
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="19" alt="adobeaftereffects logo"  />
  <p><!--ides--></p>
-  <img src="https://skillicons.dev/icons?i=github" height="20" alt="github logo"  />
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/replit/F26207" height="20" alt="replit logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="20" alt="git logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" height="20" alt="linux logo"  />
-  <img width="2" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="android logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/arduino/00979D" height="20" alt="arduino logo"  />
   <img width="2" />
@@ -64,10 +60,6 @@
 
 <p> <!--languages and tools--> </p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
-  <img width="1" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
-  <img width="2" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge" height="25" alt="yarn logo"  />
   <img width="2" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
   <img width="2" />
