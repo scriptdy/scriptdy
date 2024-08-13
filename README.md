@@ -26,6 +26,12 @@ I am seeking new opportunities that will allow me to apply my efficiency and gai
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="19" alt="adobeillustrator logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="19" alt="adobeaftereffects logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="20" alt="blender logo"  />
+  <img width="2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" alt="unity logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="20" alt="unrealengine logo"  />
  <p><!--ides--></p>
   <img width="2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
@@ -49,14 +55,9 @@ I am seeking new opportunities that will allow me to apply my efficiency and gai
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="20" alt="rstudio logo"  />
   <img width="2" />
   <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="20" alt="eclipseide logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="20" alt="blender logo"  />
-  <img width="2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="20" alt="unity logo"  />
-  <img width="2" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="20" alt="unrealengine logo"  />
-  <img width="2" />
+    <img width="2" />
   <img src="https://skillicons.dev/icons?i=codepen" height="20" alt="codepen logo"  />
+
 
 <p> <!--languages and tools--> </p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
