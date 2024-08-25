@@ -1,4 +1,5 @@
 <img width="45%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=white&right_color=black&left_text=%20%20%20%F0%9F%8C%88%20" />
 
 
 <samp aling="left"> I am 25 years old and currently pursuing a degree in Computer Engineering at UNIVESP. 
