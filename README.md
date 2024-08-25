@@ -7,7 +7,7 @@ I am proactive, creative and self-taught, with multidisciplinary knowledge gaine
 I am seeking new opportunities that will allow me to apply my efficiency and gain new experiences, always striving for excellence. I aim to contribute to innovation and inspire new ideas in the workplace. </samp>
 
 <!-- follow --------------------------------->
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=white&right_color=darkslategrey&left_text=%20%20%20%F0%9F%8C%88%20" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)  
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=white&right_color=black&left_text=%20%20%20%F0%9F%8C%88%20" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)  
 
 
 <div align="left" width="25" spacing="3">
