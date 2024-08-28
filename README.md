@@ -1,4 +1,4 @@
-<img width="45%" align="right" src="https://media.discordapp.net/attachments/828754180487249950/1267546912224182362/octocat-1722219368177.png?ex=66a92e8d&is=66a7dd0d&hm=5b24e12879dd9fc4a7f0c9a4128e1befe05c809fc04aefe209439995f570df7f&=&format=webp&quality=lossless&width=468&height=468" />
+<img width="45%" align="right" src="https://media.discordapp.net/attachments/878042066700107830/1278157836433756293/octocat-1722218280618.png?ex=66cfc8bf&is=66ce773f&hm=a618f12273a543133b4e0d4774e085da85c9b547c18827c41b6cf6858da8d7f4&=&format=webp&quality=lossless&width=701&height=701" /> <!--width=468&height=468" -->
 
 <samp aling="left"> I am 25 years old and currently pursuing a degree in Computer Engineering at UNIVESP. 
 I am proactive, creative and self-taught, with multidisciplinary knowledge gained through education in Technology, Computer Science, Business Administration and Finance, Design, and Arts.
@@ -133,7 +133,8 @@ I am seeking new opportunities that will allow me to apply my efficiency and gai
 <!-- <img   width="400" height="290em" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=kbyyueeklymruevisefa4pgo2&count=4&unique=false" alt="Spotify recently played"  /> -->
 
  <!-- stats -->
-<div align="left">
+
+<div align="center">
 <!-- repos-per-language -->
    <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=scriptdy&theme=apprentice">
 <!-- productive-time -->
@@ -142,8 +143,8 @@ I am seeking new opportunities that will allow me to apply my efficiency and gai
    <img width="200" height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=scriptdy&theme=apprentice">
  <!-- profile-details -->
    <img width="604px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scriptdy&theme=apprentice">
- <!-- holopin
-<img  width="504px" src="https://holopin.me/scripty">-->
+ <!-- holopin -->
+<img  width="604px" src="https://holopin.me/scripty">
  </div>
 
 <hr>
@@ -151,7 +152,7 @@ I am seeking new opportunities that will allow me to apply my efficiency and gai
 
 <details> 
  <!-- octocat studying-->
- <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more about my projects and recommendations. </h3> </summary>
+<summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pushpin.png" alt="Graduation Cap" width="25" height="25" /> <h3> Click to know more about my projects and recommendations. </h3> </summary>
 
 <details> <!--Communities-->
 <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Graduation Cap" width="25" height="25" /> Always present at technology events and 
@@ -165,7 +166,7 @@ being a member and ambassador of <strong>communities<stong> </summary>
 
 <details>  <!-- Projects Repos  -->
 <summary>  Projects </summary>
- <img width="30%" align="right" src="https://cdn.discordapp.com/attachments/828754180487249950/1267547106348892301/studentocat-transparent-b50566efff47419df36db30fd5ff8d98498a472fa43df2fb52e6d5af035fb4d9.png?ex=66a92ebc&is=66a7dd3c&hm=e8b72e891e6c3f9168ed2f0f040b5391cf118b952da1c3794585ea592dcc6bfa&" />
+ <img width="30%" align="right" src="https://media.discordapp.net/attachments/878042066700107830/1278157836924354580/studentocat-transparent-b50566efff47419df36db30fd5ff8d98498a472fa43df2fb52e6d5af035fb4d9.png?ex=66cfc8bf&is=66ce773f&hm=b4854eca15e0d40c95af7951fc39a638d503531fcffb138dd7a95f10e55292b4&=&format=webp&quality=lossless" />
 <!-- Vagas de Trabalho -->
 <!-- Vagas afirmativas para mulheres cis e trans (WomanTechmakers) -->
 <!-- ID card -->
@@ -190,7 +191,8 @@ being a member and ambassador of <strong>communities<stong> </summary>
 
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Technologist%20Light%20Skin%20Tone.png" alt="Woman Technologist Light Skin Tone" width="25" height="25" /> projects by [**Alyssa**](https://www.alyssax.com/) and [**Ana**](https://twitter.com/AnaArsonist) , technical tips [**TheCodeDose**](https://thecodedose.com/), Carrer [**LadyEngineering**](https://ladyengineering.blog/), tips [**Miraya**](https://mirayatech.hashnode.dev/?source=top_nav_blog_home)
  
- <hr>
 </details>
 </details>
 
+<div align="center" >
+<img width="45%" align="center" src="https://media.discordapp.net/attachments/878042066700107830/1278157835926110299/mona-ears-f324bfec1604.png?ex=66cfc8bf&is=66ce773f&hm=5277a511bf2e8532a71c28ba6c3146399e02bf75fa2f9343cb20467e4c64e305&=&format=webp&quality=lossless">  </div>
