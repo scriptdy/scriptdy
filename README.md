@@ -194,5 +194,7 @@ being a member and ambassador of <strong>communities<stong> </summary>
 </details>
 </details>
 
+
 <div align="center" >
-<img width="45%" align="center" src="https://media.discordapp.net/attachments/878042066700107830/1278157835926110299/mona-ears-f324bfec1604.png?ex=66cfc8bf&is=66ce773f&hm=5277a511bf2e8532a71c28ba6c3146399e02bf75fa2f9343cb20467e4c64e305&=&format=webp&quality=lossless">  </div>
+<img width="45%" align="center" src="https://media.discordapp.net/attachments/878042066700107830/1278157835926110299/mona-ears-f324bfec1604.png?ex=66cfc8bf&is=66ce773f&hm=5277a511bf2e8532a71c28ba6c3146399e02bf75fa2f9343cb20467e4c64e305&=&format=webp&quality=lossless">  
+</div>
