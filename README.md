@@ -8,6 +8,7 @@ I am seeking new opportunities that will allow me to apply my efficiency and gai
 <!-- follow --------------------------------->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=scriptdy.scriptdy&left_color=white&right_color=black&left_text=%20%20%20%F0%9F%8C%88%20" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> [![GitHub ](https://img.shields.io/github/followers/scriptdy?label=follow&style=social)](https://github.com/scriptdy)  
 
+Learning:
 
 <div align="left" width="25" spacing="3">
 <h4 align="left"></h4> 
