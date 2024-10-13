@@ -187,7 +187,7 @@ being a member and ambassador of <strong>communities<stong> </summary>
  
  <img width="10%" align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> [**Become a paid software developer in 12 months**](https://www.saiyangrowthletter.com/p/become-a-paid-software-developer) by [Tiger Abrodi](https://substack.com/@tigerabrodi)<br/> 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /> [**Become a paid software developer in 12 months**](https://tigerabrodi.blog/become-a-software-developer-in-12-months) by [Tiger Abrodi](https://substack.com/@tigerabrodi)<br/> 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="25" height="25" /> [**How To Find A Developer Job In 2023 (With Little Or No Experience) 🔥**](https://dev.to/dragosnedelcu/how-to-find-a-developer-job-in-2023-with-little-or-no-experience-27h7) by [Dragos Nedelcu](https://dev.to/dragosnedelcu)<br/>
  
