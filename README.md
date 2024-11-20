@@ -118,7 +118,7 @@ techCommunities: {
 
 <!-- Studies -->
 
-<!--Projects-->
+<!--Projects--
 <div align="" width"10%">
   <a href="https://github.com/scriptdy/cipherun">
     <img align="" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=scriptdy&repo=cipherun" />
@@ -130,6 +130,5 @@ techCommunities: {
 
 
 
-<!-- snake -->
+<!-- snake --
 <img src="https://raw.githubusercontent.com/scriptdy/scriptdy/output/snake.svg" alt="Snake animation" />
-![octovii](https://github.com/user-attachments/assets/ef01c6ee-fc86-44a1-8121-86116ed9f0a9)
