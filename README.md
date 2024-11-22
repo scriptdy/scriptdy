@@ -19,17 +19,16 @@ const V = {
 
 techCommunities: {
                         Embassador: "Women Techmakers - Google ",
-                        Member: "💻 GDG - Google Developer Groups",
-                                "Women Techmakers", "PyLadies", 
-                                "Tech Ladies", "Django Girls",
+                        Member:  "GDG - Google Developer Groups",
+                                 "Women Techmakers", "PyLadies", 
+                                 "Tech Ladies", "Django Girls",
                       },
 }
 ```
 
 <!--badges--->
 
-<hr>
-<!--
+<!--design-
 <div align="left">
 <p align="center"> </p>
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="23" alt="adobeillustrator logo"  />
