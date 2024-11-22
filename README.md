@@ -1,5 +1,7 @@
 <img width="25%" align="right" src="" />
 
+[![wakatime](https://wakatime.com/badge/user/6d6db147-2dcb-4258-9a9c-df9f3613a25a.svg?style=for-the-badge)](https://wakatime.com/@6d6db147-2dcb-4258-9a9c-df9f3613a25a)
+ 
 <!---->
 
 ```javascript
