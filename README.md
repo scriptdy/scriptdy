@@ -1,4 +1,4 @@
-<img width="25%" align="right" src="https://private-user-images.githubusercontent.com/109866105/389124433-4f8e4ca3-d092-4302-87b0-d79d7f86b040.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIzMTQ4NzAsIm5iZiI6MTczMjMxNDU3MCwicGF0aCI6Ii8xMDk4NjYxMDUvMzg5MTI0NDMzLTRmOGU0Y2EzLWQwOTItNDMwMi04N2IwLWQ3OWQ3Zjg2YjA0MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMlQyMjI5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZGUzMTYxMTg1M2E5NTc2MzZjNjNmNzBiNzM4NGZkODgyOTQ5OWY3YTU5NGZkZmIxMWRiN2RkNzZjZjE0YjFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.f4_YGPbbFOzm_IpkOkvGD5f1rkDKgM2IBpfExdKsodU" />
+<img width="25%" align="right" src="img\octovii.png" />
 
 [![wakatime](https://wakatime.com/badge/user/6d6db147-2dcb-4258-9a9c-df9f3613a25a.svg?style=for-the-badge)](https://wakatime.com/@6d6db147-2dcb-4258-9a9c-df9f3613a25a)
 
