@@ -1,4 +1,4 @@
-<img width="25%" align="right" src="img\octovii.png" />
+<img width="35%" align="right" src="img\octovii.png" />
 
 Hello, world! 
 <p> I am a Computer Engineering undergraduate student. With a multidisciplinary background in arts, design and administration, I am currently focusing on developing both technical and interpersonal skills for the tech industry
